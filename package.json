@@ -2,7 +2,7 @@
   "name": "pjs_portfolio",
   "version": "0.1.0",
   "private": true,
-  "hompage": "http://pjsportfolio.github.io/deploy-react",
+  "homepage": "http://pjsportfolio.github.io/deploy-react",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
